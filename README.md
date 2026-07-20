@@ -1,10 +1,13 @@
 # porfolio
 Ex01 Portfolio
 Date:20.07.2026
+
+
 AIM
 To create a Portfolio using HTML and CSS.
 
 ALGORITHM
+
 STEP 1
 Create an HTML file (index.html)
 
